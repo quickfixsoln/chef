@@ -11,4 +11,15 @@ knife bootstrap node02.example.com --ssh-user root --ssh-password 'vagrant' --su
 
 
 
+
+cookbook:
+
+   java   from super market
+   
+   https://github.com/shekhargulati/java8-chef-cookbook.git
+   
+   
+   
+
+
   
